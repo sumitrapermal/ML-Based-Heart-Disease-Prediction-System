@@ -24,15 +24,13 @@ NumPy
 Scikit-learn
 Joblib
 
-📂 Project Structure
 HeartDisease-Prediction/
-
 │
-├── app.py                         # Streamlit web application
-├── heartdiseaseprediction.ipynb   # Model training notebook
-├── KNN_heart.pkl                  # Trained KNN model
-├── scaler.pkl                     # StandardScaler object
-├── columns.pkl                    # Model input columns
+├── app.py # Streamlit web application
+├── heartdiseaseprediction.ipynb # Model training notebook
+├── KNN_heart.pkl # Trained KNN model
+├── scaler.pkl # StandardScaler object
+├── columns.pkl # Model input columns
 ├── README.md
 
 
