@@ -35,16 +35,14 @@ This project uses a **K-Nearest Neighbors (KNN)** machine learning model to anal
 ---
 
 ## 📂 Project Structure
-
+```
 HeartDisease-Prediction/
 │
-├── app.py # Streamlit web application
-├── heartdiseaseprediction.ipynb # Model training notebook
-├── KNN_heart.pkl # Trained KNN model
-├── scaler.pkl # StandardScaler object
-├── columns.pkl # Model input columns
-├── README.md
-
+├── app.py                          # Streamlit web application
+├── heartdiseaseprediction.ipynb    # Model training notebook
+├── KNN_heart.pkl                   # Trained KNN model
+├── scaler.pkl                      # StandardScaler object
+├── columns.pkl                     # Model input columns
 
 ---
 
