@@ -26,6 +26,7 @@ Joblib
 
 📂 Project Structure
 HeartDisease-Prediction/
+
 │
 ├── app.py                         # Streamlit web application
 ├── heartdiseaseprediction.ipynb   # Model training notebook
