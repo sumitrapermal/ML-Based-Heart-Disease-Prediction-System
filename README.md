@@ -23,7 +23,7 @@ Pandas
 NumPy
 Scikit-learn
 Joblib
-
+```
 HeartDisease-Prediction/
 │
 ├── app.py # Streamlit web application
@@ -32,6 +32,7 @@ HeartDisease-Prediction/
 ├── scaler.pkl # StandardScaler object
 ├── columns.pkl # Model input columns
 ├── README.md
+```
 
 
 📊 Input Parameters
