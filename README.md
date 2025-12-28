@@ -26,12 +26,11 @@ Joblib
 ```
 HeartDisease-Prediction/
 │
-├── app.py # Streamlit web application
-├── heartdiseaseprediction.ipynb # Model training notebook
-├── KNN_heart.pkl # Trained KNN model
-├── scaler.pkl # StandardScaler object
-├── columns.pkl # Model input columns
-├── README.md
+├── app.py                           # Streamlit web application
+├── heartdiseaseprediction.ipynb     # Model training notebook
+├── KNN_heart.pkl                    # Trained KNN model
+├── scaler.pkl                       # StandardScaler object
+├── columns.pkl                      # Model input columns
 ```
 
 
@@ -51,14 +50,18 @@ ST Slope
 
 How to Run the Project:
 1️⃣ Clone the Repository
+```
 git clone https://github.com/your-username/HeartDisease-Prediction.git
 cd HeartDisease-Prediction
-
+```
 2️⃣ Install Required Libraries
+```
 pip install streamlit pandas numpy scikit-learn joblib
-
+```
 3️⃣ Run the Streamlit App
+```
 streamlit run app.py
+```
 
 🧠 Machine Learning Details:
 Algorithm Used: K-Nearest Neighbors (KNN)
